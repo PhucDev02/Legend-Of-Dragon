@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 139cd126c74beda42a31b21e09e576af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundButton: {instanceID: 0}
+  - musicButton: {instanceID: 0}
+  - musicOn: {fileID: -5488440318447421684, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+  - musicOff: {fileID: 1800584767278167601, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+  - soundOn: {fileID: -7012261855320379944, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+  - soundOff: {fileID: -6530121748577348487, guid: fd7f427abb4ece2448755652792629b0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
